@@ -1,0 +1,4 @@
+Clothing,w02,Trousers,19,25.0,S,black
+Electronics,w12,Headphones,5,23.0,TechNess,4
+Clothing,w19,tank,15,14.0,XL,prink
+Clothing,w34,Tshirt,8,8.0,L,red
